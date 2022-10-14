@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @QuaGreen7
+- 👋 Hi, I’m Quadarris Green
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python +
 - 💞️ I’m looking to collaborate on different programming projects
 - 📫 How to reach me my email at quadarris.green@students.Cau.edu
 
